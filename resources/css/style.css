@@ -193,8 +193,23 @@ footer img {
     padding: 0 1rem;
     width: 100%;
     text-align: center;
-  }
+    }
   h1 {
     font-size: 1rem;
-  }
+    }
+  .services {
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 3rem 0;
+   }
+   .service {
+     margin: 1.54rem 0;
+     padding: 0 3rem;
+     height: 8rem;
+     width: 5rem;
+     text-align: center;
+     font-size: .77rem;
+     height: auto;
+   }
   }
