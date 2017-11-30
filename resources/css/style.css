@@ -116,6 +116,10 @@ header .messageContainer {
   width: 5rem;
 }
 
+.service div {
+  padding-top: .7rem;
+}
+
 /*Information*/
 
 .information {
