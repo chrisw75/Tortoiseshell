@@ -133,3 +133,17 @@ header .messageContainer {
   margin-bottom: 1rem;
   max-width: 10rem;
 }
+
+/*Footer*/
+
+footer {
+  display: flex;
+  align-items: center;
+  background-color: azure;
+  padding: 4rem;
+}
+
+footer img {
+  height: 1.5rem;
+  padding-right: 1rem;
+}
