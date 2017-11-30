@@ -232,4 +232,11 @@ footer img {
      max-width: 100%;
      text-align: center;
    }
+   footer {
+     display: flex;
+     justify-content: center;
+   }
+   footer span {
+     display: none;
+   }
   }
