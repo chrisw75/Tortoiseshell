@@ -147,3 +147,16 @@ footer img {
   height: 1.5rem;
   padding-right: 1rem;
 }
+
+/* Media Query */
+
+@media only screen and (max-width: 1024px) {
+  .siteContainer {
+    max-width: 100%;
+  }
+  header {
+    padding-top: 0;
+    height: 22rem;
+    
+    }
+}
