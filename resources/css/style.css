@@ -31,6 +31,11 @@ header {
 
 /*Navigation*/
 
+.mobileMenu {
+  display: none;
+  text-align: right;
+}
+
 nav {
   padding: 1rem 0;
   background-color: cadetblue;
@@ -172,6 +177,16 @@ footer img {
   header {
     height: 17rem;
     background-position: 20%;
-    
-  }
+    }
+  nav span {
+    display: none;
+    }
+  .menu {
+    display: none;
+    }
+  .mobileMenu {
+      display: block;
+      padding-right: 2rem;
+    }
+
   }
