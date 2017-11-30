@@ -167,3 +167,11 @@ footer img {
     font-size: 1.33rem;
   }
 }
+
+@media only screen and (max-width: 470px) {
+  header {
+    height: 17rem;
+    background-position: 20%;
+    
+  }
+  }
